@@ -13,10 +13,10 @@ import { SettingsComponent } from './components/settings/settings.component';
 @NgModule({
 	declarations: [
 		HomeComponent,
-  BasicInfoComponent,
-  CalendarComponent,
-  EditComponent,
-  SettingsComponent,
+		BasicInfoComponent,
+		CalendarComponent,
+		EditComponent,
+		SettingsComponent,
 	],
 	imports: [
 		SharedModule,
